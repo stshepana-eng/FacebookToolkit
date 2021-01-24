@@ -200,8 +200,8 @@ and don't forget to ask at [issue page](https://github.com/warifp/FacebookToolki
 If you have additional information, you can make it on the [issue page](https://github.com/warifp/FacebookToolkit/issues).
 
 ## Thanks
-
-Thank you for all.
+I'mi
+hank you for all.
 
 1.  CLIMate Library : [CLIMate](https://climate.thephpleague.com/).
 2.  PHP CLI Color Class : [PHPColor](https://www.if-not-true-then-false.com/2010/php-class-for-coloring-php-command-line-cli-scripts-output-php-output-colorizing-using-bash-shell-colors/).
